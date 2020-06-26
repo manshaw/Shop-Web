@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "shop-isl",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
